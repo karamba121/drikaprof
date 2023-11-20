@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530870806053",
+    "project_id": "drikaprof",
+    "storage_bucket": "drikaprof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530870806053:android:595e7fc2ba65fbc33201cc",
+        "android_client_info": {
+          "package_name": "com.example.drikaprof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLwiXfLBffLZM14_TplHxbG06n2-ZOiCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
